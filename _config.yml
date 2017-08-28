@@ -1,1 +1,15 @@
 theme: jekyll-theme-architect
+title: Compiler Construction
+description: CSCI 4555/5525 and ECEN 4553/5523
+
+nav:
+- title: Welcome
+  url: .
+- title: Schedule
+  url: schedule.html
+- title: Assignments
+  url: assignments.html
+- title: Course Notes
+  url: /csci4555-notes.pdf
+- title: Moodle
+  url: https://moodle.cs.colorado.edu/course/view.php?id=501
