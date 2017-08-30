@@ -106,7 +106,7 @@ There is no required textbook for this course.
 
 ## Course Notes
 
-Most of the reading will come from the [course notes](reading/csci4555-notes.pdf), which may be updated throughout the semester.
+Most of the reading will come from the [course notes](/csci4555-notes.pdf), which may be updated throughout the semester.
 
 ## Recommended Supplemental Books
 
