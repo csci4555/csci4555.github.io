@@ -90,6 +90,15 @@ This is a senior-level or masters-level project-based, implementation-directed c
 
 The main difference between between the undergraduate- and graduate-level courses will be the expectations for the final course project.  Additionally, the final assignment of grades will be done separately for the 4000-level and the 5000-level students.  The homeworks, exercises, and exams will be the same.
 
+# Evaluation
+
+Both your ideas and also the clarity with which they are expressed matter—both in your English prose and your code!
+
+We will consider the following criteria in our grading:
+
+*   _How well does your submission answer the questions_? For example, a common mistake is to give an example when a question asks for an explanation. An example may be useful in your explanation, but it should not take the place of the explanation.
+*   _How clear is your submission_? If we cannot understand what you are trying to say, then we cannot give you points for it. Try reading your answer aloud to yourself or a friend; this technique is often a great way to identify holes in your reasoning. For code, not every program that "works" deserves full credit. We must be able to read and understand your intent. Make sure you state any preconditions or invariants for your functions (either in comments or as assertions)
+
 # Course Communication
 
 There are two main websites for this course.
@@ -132,6 +141,13 @@ Distances students will follow the same assignment deadlines as in-class student
 The questions for exercises will be made available to you on the morning of the posted date, and you must submit your answers by 11:55 p.m. of the same day. The exercises are closed book, just use your brain and only use the computer to type in your answers. For example, do not use the Python interpreter on your computer to help you answer the quiz.
 
 ## Tools and External Links
+
+## Computing
+
+For a Linux environment, the following are some resources:
+
+- Get the [CU CS Virtual Machine](https://foundation.cs.colorado.edu/vm/)
+- Get a [CSEL account](https://csel.cs.colorado.edu/) (if you're enrolled in a CSCI course). CSEL has a lab in ECCS 128 and remote access servers with SSH (`elra-01` through `elra-04.cs.colorado.edu`).
 
 ### Python
 
