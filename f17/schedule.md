@@ -7,7 +7,7 @@ The _Assignment_ column lists the due date for each assignment.
 |   |   | Date | Topic | Reading | Assignment
 |---|---|------|-------|---------|----------- 
 |1 | Tue | 8/29 | Welcome and course overview.<br/> Get signed-up on Moodle.<br/> HW0: Post a note on Piazza to introduce yourself. |  | HW0 due Wed
-| | Thu | 8/31 | Integers and variables.<br/>[meeting02-board] [meeting02-notes] | Chapter 1: 1.1-1.3 1.5 | 
+| | Thu | 8/31 | Integers and variables.<br/>[meeting02-board], [meeting02-notes] | Chapter 1: 1.1-1.3 1.5 | 
 |2 | Tue | 9/5 | Integers and variables | Chapter 1: 1.4 1.6 | 
 | | Thu | 9/7 | Integers and variables | Chapter 1 | HW1 due Fri
 |3 | Tue | 9/12 | Parsing | Chapter 2: 2.1-2.3 | EX1
