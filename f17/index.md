@@ -17,7 +17,7 @@ We post our regularly-scheduled office hours below, but please check the course 
 
 ![]() | Shantanu Karnwal
 ![]() | Priyanka Selvan 
-![]() | Eirian Perkins (distance)
+![Eirian Perkins](assets/perkins.jpg) | Eirian Perkins (distance)
 
 ## Learning Coordinator
 
