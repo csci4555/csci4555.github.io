@@ -2,9 +2,32 @@
 
 Class meetings are Tuesdays and Thursdays 9:30-10:45 in ECCS 1B28.
 
+Please check the following calendar for the latest information about office hours and potentially review and help sessions.
+<iframe src="https://calendar.google.com/calendar/embed?showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=colorado.edu_j87qtg7ug60hp0q92lnv85tmtg%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FDenver" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 # Course Staff
 
-![Bor-Yuh Evan Chang](assets/chang.jpg) | **Instructor**: [Prof. Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec) <br/> **Office Hours**: Tue 10:45-11:45, Thu 8:30-9:30 in CSEL ECCS 112.
+We post our regularly-scheduled office hours below, but please check the course calendar above for any special changes.
+
+## Instructor
+
+![Bor-Yuh Evan Chang](assets/chang.jpg) | [Prof. Bor-Yuh Evan Chang](http://www.cs.colorado.edu/~bec) <br/> **Regular Office Hours**: Tue 10:45am-11:45am, Thu 8:30am-9:30am in CSEL ECCS 112.
+
+## Grading Assistants
+
+![]() | Shantanu Karnwal
+![]() | Priyanka Selvan 
+![]() | Eirian Perkins (distance)
+
+## Learning Coordinator
+
+![]() | Spencer Wilson
+
+## Course Assistants
+
+![]() | Juraj Culak <br/> **Regular Office Hours**: Wed 2:30pm-4:00pm, Thu 11:00am-12:30pm in CSEL ECCS 112.
+![]() | Andrew Guttman <br/> **Regular Office Hours**: Mon 3:00pm-4:30pm, Thu 5:00pm-6:30pm in CSEL ECCS 112.
+![]() | Benno Stein <br/> **Regular Office Hours**: Wed 1:00pm-2:30pm, Fri 2:00pm-3:30pm in CSEL ECCS 112.
 
 # Course Overview
 
