@@ -21,7 +21,7 @@ We post our regularly-scheduled office hours below, but please check the course 
 
 ## Learning Coordinator
 
-![]() | Spencer Wilson
+![Spencer D. Wilson](assets/wilson.png) | Spencer Wilson
 
 ## Course Assistants
 
