@@ -3,7 +3,7 @@
 Class meetings are Tuesdays and Thursdays 9:30-10:45 in ECCS 1B28.
 
 Please check the following calendar for the latest information about office hours and potentially review and help sessions.
-<iframe src="https://calendar.google.com/calendar/embed?showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=colorado.edu_j87qtg7ug60hp0q92lnv85tmtg%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FDenver" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=colorado.edu_j87qtg7ug60hp0q92lnv85tmtg%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FDenver" style="border-width:0" width="600" height="450" frameborder="0" scrolling="no"></iframe>
 
 # Course Staff
 
