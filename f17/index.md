@@ -16,7 +16,7 @@ We post our regularly-scheduled office hours below, but please check the course 
 ## Grading Assistants
 
 ![]() | Shantanu Karnwal
-![]() | Priyanka Selvan 
+![Priyanka Selvan](assets/priyanka_image.jpg) | Priyanka Selvan 
 ![]() | Eirian Perkins (distance)
 
 ## Learning Coordinator
