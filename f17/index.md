@@ -17,11 +17,11 @@ We post our regularly-scheduled office hours below, but please check the course 
 
 ![]() | Shantanu Karnwal
 ![Priyanka Selvan](assets/priyanka_image.jpg) | Priyanka Selvan 
-![]() | Eirian Perkins (distance)
+<img src="assets/perkins.jpg" alt="Eirian Perkins" width="100"> | Eirian Perkins (distance)
 
 ## Learning Coordinator
 
-![]() | Spencer Wilson
+![Spencer D. Wilson](assets/wilson.png) | Spencer Wilson
 
 ## Course Assistants
 
