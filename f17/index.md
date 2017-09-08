@@ -3,7 +3,7 @@
 Class meetings are Tuesdays and Thursdays 9:30-10:45 in ECCS 1B28.
 
 Please check the following calendar for the latest information about office hours and potentially review and help sessions.
-<iframe src="https://calendar.google.com/calendar/embed?showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=colorado.edu_j87qtg7ug60hp0q92lnv85tmtg%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FDenver" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=colorado.edu_j87qtg7ug60hp0q92lnv85tmtg%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FDenver" style="border-width:0" width="640" height="480" frameborder="0" scrolling="no"></iframe>
 
 # Course Staff
 
@@ -16,12 +16,12 @@ We post our regularly-scheduled office hours below, but please check the course 
 ## Grading Assistants
 
 ![]() | Shantanu Karnwal
-![]() | Priyanka Selvan 
-![]() | Eirian Perkins (distance)
+![Priyanka Selvan](assets/priyanka_image.jpg) | Priyanka Selvan 
+<img src="assets/perkins.jpg" alt="Eirian Perkins" width="100"> | Eirian Perkins (distance)
 
 ## Learning Coordinator
 
-![]() | Spencer Wilson
+![Spencer D. Wilson](assets/wilson.png) | Spencer Wilson
 
 ## Course Assistants
 
