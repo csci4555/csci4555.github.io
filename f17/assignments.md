@@ -4,8 +4,22 @@ All homework must be completed in pairs only. You may discuss the problems with 
 
 Homework solutions should be submitted by 6:00 p.m. on the due date (with an automatic twenty-four hour extension). Early submissions are welcome.
 
-## Homework Assignment 1
+## Homework Assignment 3
+  
+**Due Friday, September 29, 2017**
 
+* Complete the exercises in Chapter 3 resulting in a register allocator for your P0 compiler.
+* Get started early, as you have to think carefully about several parts.
+* You might want to start by refactoring your code to use an x86-like IL before code generation if you haven't already.
+
+## Homework Assignment  2
+  
+**Due Tuesday, September 19, 2017**
+
+* Complete the exercises in Chapter 2 resulting in a parser for P0 to add to your P0 compiler.
+
+## Homework Assignment 1
+  
 **Due Friday, September 8, 2017**
 
 * Complete the exercises in Chapter 1 resulting in a compiler for P0 and tests for your compiler.
