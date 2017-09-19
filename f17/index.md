@@ -25,7 +25,7 @@ We post our regularly-scheduled office hours below, but please check the course 
 ## Course Assistants
 
 ![Juraj Culak](assets/culak.png) | Juraj Culak <br/> **Regular Office Hours**: Wed 2:30pm-4:00pm, Thu 11:00am-12:30pm in CSEL ECCS 112.
-![Andrew Guttman](assets/guttman.jpg) | Andrew Guttman <br/> **Regular Office Hours**: Mon 4:00pm-5:30pm, Thu 6:00pm-7:30pm in CSEL ECCS 112.
+<img src="assets/guttman.jpg" alt="Andrew Guttman" width="100"> | Andrew Guttman <br/> **Regular Office Hours**: Mon 4:00pm-5:30pm, Thu 6:00pm-7:30pm in CSEL ECCS 112.
 ![Benno Stein](assets/stein.png) | Benno Stein <br/> **Regular Office Hours**: Wed 1:00pm-2:30pm, Fri 2:00pm-3:30pm in CSEL ECCS 112.
 
 # Course Overview
