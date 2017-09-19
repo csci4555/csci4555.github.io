@@ -17,7 +17,6 @@ We post our regularly-scheduled office hours below, but please check the course 
 
 <img src="assets/Shantanu.jpg" alt="Shantanu Karnwal" width="100"> | Shantanu Karnwal
 ![Priyanka Selvan](assets/priyanka_image.jpg) | Priyanka Selvan 
-<img src="assets/perkins.jpg" alt="Eirian Perkins" width="100"> | Eirian Perkins (distance)
 
 ## Learning Coordinator
 
