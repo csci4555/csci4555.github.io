@@ -12,9 +12,9 @@ The _Assignment_ column lists the due date for each assignment.
 | | Thu | 9/7 | Integers and variables<br/>[meeting04-board],[meeting04-notes] | Chapter 1 | HW1 due Fri
 |3 | Tue | 9/12 | Parsing | Chapter 2: 2.1-2.3 | EX1
 | | Thu | 9/14 | Parsing | Chapter 2: 2.4 | 
-|4 | Tue | 9/19 | Register allocation | Chapter 3: 3.1-3.2 | HW2 due Tue
-| | Thu | 9/21 | Register allocation | Chapter 3: 3.3 | EX2
-|5 | Tue | 9/26 | Register allocation | Chapter 3: 3.4-3.5 | 
+|4 | Tue | 9/19 | Register allocation<br/>[meeting07-board],[meeting07-notes] | Chapter 3: 3.1-3.2 | HW2 due Tue
+| | Thu | 9/21 | Register allocation | Chapter 3: 3.3 |
+|5 | Tue | 9/26 | Register allocation | Chapter 3: 3.4-3.5 | EX2
 | | Thu | 9/28 | Register allocation | Chapter 3 | HW3 due Fri
 |6 | Tue | 10/3 | Data types and polymorphism | Chapter 4: 4.1-4.4 | EX3
 | | Thu | 10/5 | Data types and polymorphism | Chapter 4: 4.6-4.10 | 
@@ -47,3 +47,5 @@ The _Assignment_ column lists the due date for each assignment.
 [meeting03-notes]: meetings/meeting03-ch1.pdf
 [meeting04-board]: meetings/meeting04.pdf
 [meeting04-notes]: meetings/meeting04-ch1.pdf
+[meeting04-board]: meetings/meeting07.pdf
+[meeting04-notes]: meetings/meeting07-ch2-3.pdf
