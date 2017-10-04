@@ -13,10 +13,10 @@ The _Assignment_ column lists the due date for each assignment.
 |3 | Tue | 9/12 | Parsing | Chapter 2: 2.1-2.3 | EX1
 | | Thu | 9/14 | Parsing | Chapter 2: 2.4 | 
 |4 | Tue | 9/19 | Register allocation<br/>[meeting07-board],[meeting07-notes] | Chapter 3: 3.1-3.2 | HW2 due Tue
-| | Thu | 9/21 | Register allocation | Chapter 3: 3.3 |
-|5 | Tue | 9/26 | Register allocation | Chapter 3: 3.4-3.5 | EX2
-| | Thu | 9/28 | Register allocation | Chapter 3 | HW3 due Fri
-|6 | Tue | 10/3 | Data types and polymorphism | Chapter 4: 4.1-4.4 | EX3
+| | Thu | 9/21 | Register allocation<br/>[meeting08-board],[meeting08-notes] | Chapter 3: 3.3 |
+|5 | Tue | 9/26 | Register allocation<br/>[meeting09-board],[meeting09-notes]  | Chapter 3: 3.4-3.5 | EX2
+| | Thu | 9/28 | Register allocation<br/>[meeting10-board],[meeting10-notes]  | Chapter 3 | HW3 due Fri
+|6 | Tue | 10/3 | Data types and polymorphism<br/>[meeting11-board],[meeting11-notes]  | Chapter 4: 4.1-4.4 | EX3
 | | Thu | 10/5 | Data types and polymorphism | Chapter 4: 4.6-4.10 | 
 |7 | Tue | 10/10 | Data types and polymorphism | Chapter 4: 4.5 | 
 | | Thu | 10/12 | Data types and polymorphism | Chapter 4 | HW4 due Fri
@@ -47,5 +47,13 @@ The _Assignment_ column lists the due date for each assignment.
 [meeting03-notes]: meetings/meeting03-ch1.pdf
 [meeting04-board]: meetings/meeting04.pdf
 [meeting04-notes]: meetings/meeting04-ch1.pdf
-[meeting04-board]: meetings/meeting07.pdf
-[meeting04-notes]: meetings/meeting07-ch2-3.pdf
+[meeting07-board]: meetings/meeting07.pdf
+[meeting07-notes]: meetings/meeting07-ch2-3.pdf
+[meeting08-board]: meetings/meeting08.pdf
+[meeting08-notes]: meetings/meeting08-ch3.pdf
+[meeting09-board]: meetings/meeting09.pdf
+[meeting09-notes]: meetings/meeting09-ch3.pdf
+[meeting10-board]: meetings/meeting10.pdf
+[meeting10-notes]: meetings/meeting10-ch3.pdf
+[meeting11-board]: meetings/meeting11.pdf
+[meeting11-notes]: meetings/meeting11-ch4.pdf
