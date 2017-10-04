@@ -40,6 +40,8 @@ The _Assignment_ column lists the due date for each assignment.
 | | Thu | 12/14 | Final project presentations |  | |
 |17 | Tue | 12/19 | Finals week |  | Paper due Sun |
 
+---
+
 [meeting02-board]: meetings/meeting02.pdf
 [meeting02-notes]: meetings/meeting02-ch1.pdf
 [test_meeting02.py]: meetings/test_meeting02.py
