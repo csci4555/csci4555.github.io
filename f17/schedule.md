@@ -17,7 +17,7 @@ The _Assignment_ column lists the due date for each assignment.
 |5 | Tue | 9/26 | Register allocation.<br/>[meeting09-board],[meeting09-notes]  | Chapter 3: 3.4-3.5 | EX2 |
 | | Thu | 9/28 | Register allocation.<br/>[meeting10-board],[meeting10-notes]  | Chapter 3 | HW3 due Fri |
 |6 | Tue | 10/3 | Data types and polymorphism.<br/>[meeting11-board],[meeting11-notes]  | Chapter 4: 4.1-4.4 | EX3 |
-| | Thu | 10/5 | Data types and polymorphism | Chapter 4: 4.6-4.10 |  |
+| | Thu | 10/5 | Data types and polymorphism.<br/>[meeting12-board],[meeting12-notes] | Chapter 4: 4.6-4.10 |  |
 |7 | Tue | 10/10 | Data types and polymorphism | Chapter 4: 4.5 |  |
 | | Thu | 10/12 | Data types and polymorphism | Chapter 4 | HW4 due Fri |
 |8 | Tue | 10/17 | Midterm review |  | EX4 |
@@ -59,3 +59,5 @@ The _Assignment_ column lists the due date for each assignment.
 [meeting10-notes]: meetings/meeting10-ch3.pdf
 [meeting11-board]: meetings/meeting11.pdf
 [meeting11-notes]: meetings/meeting11-ch4.pdf
+[meeting12-board]: meetings/meeting12.pdf
+[meeting12-notes]: meetings/meeting12-ch4.pdf
