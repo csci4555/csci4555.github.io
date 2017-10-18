@@ -18,10 +18,10 @@ The _Assignment_ column lists the due date for each assignment.
 | | Thu | 9/28 | Register allocation.<br/>[meeting10-board],[meeting10-notes]  | Chapter 3 | HW3 due Fri |
 |6 | Tue | 10/3 | Data types and polymorphism.<br/>[meeting11-board],[meeting11-notes]  | Chapter 4: 4.1-4.4 | EX3 |
 | | Thu | 10/5 | Data types and polymorphism.<br/>[meeting12-board],[meeting12-notes] | Chapter 4: 4.6-4.10 |  |
-|7 | Tue | 10/10 | Data types and polymorphism | Chapter 4: 4.5 |  |
-| | Thu | 10/12 | Data types and polymorphism | Chapter 4 | HW4 due Fri |
-|8 | Tue | 10/17 | Midterm review |  | EX4 |
-| | Thu | 10/19 | Midterm exam: evening (time TBA) |  |  |
+|7 | Tue | 10/10 | Data types and polymorphism.<br/>[meeting13-board],[meeting13-notes]  | Chapter 4: 4.5 |  |
+| | Thu | 10/12 | Data types and polymorphism.<br/>[meeting14-board],[meeting14-notes]  | Chapter 4 | HW4 due Fri |
+|8 | Tue | 10/17 | Midterm review.<br/>[meeting15-board]  |  | EX4 |
+| | Thu | 10/19 | Midterm exam: 7:30pm-9:30pm, ECCR 200 |  |  |
 |9 | Tue | 10/24 | Functions | Chapter 5: 5.1-5.3 |  |
 | | Thu | 10/26 | Functions | Chapter 5: 5.4-5.5 | Pre-Proposal due Fri |
 |10 | Tue | 10/31 | Functions | Chapter 5 |  |
@@ -61,3 +61,8 @@ The _Assignment_ column lists the due date for each assignment.
 [meeting11-notes]: meetings/meeting11-ch4.pdf
 [meeting12-board]: meetings/meeting12.pdf
 [meeting12-notes]: meetings/meeting12-ch4.pdf
+[meeting13-board]: meetings/meeting13.pdf
+[meeting13-notes]: meetings/meeting13-ch4.pdf
+[meeting14-board]: meetings/meeting14.pdf
+[meeting14-notes]: meetings/meeting14-ch4.pdf
+[meeting15-board]: meetings/meeting15.pdf
