@@ -22,9 +22,9 @@ The _Assignment_ column lists the due date for each assignment.
 | | Thu | 10/12 | Data types and polymorphism.<br/>[meeting14-board],[meeting14-notes]  | Chapter 4 | HW4 due Fri |
 |8 | Tue | 10/17 | Midterm review.<br/>[meeting15-board]  |  | EX4 |
 | | Thu | 10/19 | Midterm exam: 7:30pm-9:30pm, ECCR 200 |  |  |
-|9 | Tue | 10/24 | Functions | Chapter 5: 5.1-5.3 |  |
-| | Thu | 10/26 | Functions | Chapter 5: 5.4-5.5 | Pre-Proposal due Fri |
-|10 | Tue | 10/31 | Functions | Chapter 5 |  |
+|9 | Tue | 10/24 | Functions.<br/>[meeting17-board],[meeting17-notes] | Chapter 5: 5.1-5.3 |  |
+| | Thu | 10/26 | Functions.<br/>[meeting18-board],[meeting18-notes] | Chapter 5: 5.4-5.5 | Pre-Proposal due Fri |
+|10 | Tue | 10/31 | Functions.<br/>[meeting19-board],[meeting19-notes] | Chapter 5 |  |
 | | Thu | 11/2 | Functions | Chapter 5 | HW5+Proposal due Fri |
 |11 | Tue | 11/7 | Objects | Chapter 6 | EX5 |
 | | Thu | 11/9 | Objects | Chapter 6 |  |
@@ -66,3 +66,9 @@ The _Assignment_ column lists the due date for each assignment.
 [meeting14-board]: meetings/meeting14.pdf
 [meeting14-notes]: meetings/meeting14-ch4.pdf
 [meeting15-board]: meetings/meeting15.pdf
+[meeting17-board]: meetings/meeting17.pdf
+[meeting17-notes]: meetings/meeting17-ch5.pdf
+[meeting18-board]: meetings/meeting18.pdf
+[meeting18-notes]: meetings/meeting18-ch5.pdf
+[meeting19-board]: meetings/meeting19.pdf
+[meeting19-notes]: meetings/meeting19-ch5.pdf
