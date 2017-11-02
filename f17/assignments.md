@@ -4,9 +4,15 @@ All homework must be completed in pairs only. You may discuss the problems with 
 
 Homework solutions should be submitted by 6:00 p.m. on the due date (with an automatic twenty-four hour extension). Early submissions are welcome.
 
+## Homework Assignment 6
+
+**Due Friday, November 17, 2017**
+
+* Complete the exercises in Chapter 6 resulting in a P3 compiler.
+
 ## Homework Assignment 5
 
-**Due Friday, November 11, 2017**
+**Due Friday, November 3, 2017**
 
 * Complete the exercises in Chapter 5 resulting in a P2 compiler.
 
