@@ -25,7 +25,7 @@ The _Assignment_ column lists the due date for each assignment.
 |9 | Tue | 10/24 | Functions.<br/>[meeting17-board],[meeting17-notes] | Chapter 5: 5.1-5.3 |  |
 | | Thu | 10/26 | Functions.<br/>[meeting18-board],[meeting18-notes] | Chapter 5: 5.4-5.5 | Pre-Proposal due Fri |
 |10 | Tue | 10/31 | Functions.<br/>[meeting19-board],[meeting19-notes] | Chapter 5 |  |
-| | Thu | 11/2 | Functions | Chapter 5 | HW5+Proposal due Fri |
+| | Thu | 11/2 | Functions.<br/>[meeting20-board],[meeting20-notes] | Chapter 5 | HW5+Proposal due Fri |
 |11 | Tue | 11/7 | Objects | Chapter 6 | EX5 |
 | | Thu | 11/9 | Objects | Chapter 6 |  |
 |12 | Tue | 11/14 | Objects | Chapter 6 |  |
@@ -72,3 +72,5 @@ The _Assignment_ column lists the due date for each assignment.
 [meeting18-notes]: meetings/meeting18-ch5.pdf
 [meeting19-board]: meetings/meeting19.pdf
 [meeting19-notes]: meetings/meeting19-ch5.pdf
+[meeting20-board]: meetings/meeting20.pdf
+[meeting20-notes]: meetings/meeting20-ch5.pdf
