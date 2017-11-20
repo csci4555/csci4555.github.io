@@ -27,9 +27,9 @@ The _Assignment_ column lists the due date for each assignment.
 |10 | Tue | 10/31 | Functions.<br/>[meeting19-board],[meeting19-notes] | Chapter 5 |  |
 | | Thu | 11/2 | Functions.<br/>[meeting20-board],[meeting20-notes] | Chapter 5 | HW5+Proposal due Fri |
 |11 | Tue | 11/7 | Objects | Chapter 6 | EX5 |
-| | Thu | 11/9 | Objects | Chapter 6 |  |
-|12 | Tue | 11/14 | Objects | Chapter 6 |  |
-| | Thu | 11/16 | Objects | Chapter 6 | HW6+Status due Fri |
+| | Thu | 11/9 | Objects.<br/>[meeting22-board],[meeting22-notes] | Chapter 6 |  |
+|12 | Tue | 11/14 | Objects.<br/>[meeting23-board],[meeting23-notes] | Chapter 6 |  |
+| | Thu | 11/16 | Objects.<br/>[meeting24-board],[meeting24-notes] | Chapter 6 | HW6+Status due Fri |
 |13 | Tue | 11/21 | No class: fall break |  |  |
 | | Thu | 11/23 | No class: fall break |  |  |
 |14 | Tue | 11/28 | Compiler optimization and static analysis  |  | EX6 |
@@ -74,3 +74,9 @@ The _Assignment_ column lists the due date for each assignment.
 [meeting19-notes]: meetings/meeting19-ch5.pdf
 [meeting20-board]: meetings/meeting20.pdf
 [meeting20-notes]: meetings/meeting20-ch5.pdf
+[meeting22-board]: meetings/meeting22.pdf
+[meeting22-notes]: meetings/meeting22-ch6.pdf
+[meeting23-board]: meetings/meeting23.pdf
+[meeting23-notes]: meetings/meeting23-ch6.pdf
+[meeting24-board]: meetings/meeting24.pdf
+[meeting24-notes]: meetings/meeting24-ch6.pdf
