@@ -35,7 +35,7 @@ The _Assignment_ column lists the due date for each assignment.
 |14 | Tue | 11/28 | Compiler optimization and static analysis  |  | EX6 |
 | | Thu | 11/30 | Compiler optimization and static analysis  |  |  |
 |15 | Tue | 12/5 | Final review |  |  |
-| | Thu | 12/7 | Final exam: 7:00pm-9:30pm (location TBA) |  |  |
+| | Thu | 12/7 | Final exam: 7:00pm-9:30pm, ECCR 265 |  |  |
 |16 | Tue | 12/12 | Final project presentations |  |  |
 | | Thu | 12/14 | Final project presentations |  | |
 |17 | Tue | 12/19 | Finals week |  | Paper due Sun |
