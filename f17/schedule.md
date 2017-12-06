@@ -80,3 +80,4 @@ The _Assignment_ column lists the due date for each assignment.
 [meeting23-notes]: meetings/meeting23-ch6.pdf
 [meeting24-board]: meetings/meeting24.pdf
 [meeting24-notes]: meetings/meeting24-ch6.pdf
+[meeting27-board]: meetings/meeting27.pdf
