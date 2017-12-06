@@ -32,9 +32,9 @@ The _Assignment_ column lists the due date for each assignment.
 | | Thu | 11/16 | Objects.<br/>[meeting24-board],[meeting24-notes] | Chapter 6 | HW6+Status due Fri |
 |13 | Tue | 11/21 | No class: fall break |  |  |
 | | Thu | 11/23 | No class: fall break |  |  |
-|14 | Tue | 11/28 | Compiler optimization and static analysis  |  | EX6 |
-| | Thu | 11/30 | Compiler optimization and static analysis  |  |  |
-|15 | Tue | 12/5 | Final review |  |  |
+|14 | Tue | 11/28 | Compiler optimization and static analysis.<br/><em>Guest lecture: Benno Stein</em>  |  | EX6 |
+| | Thu | 11/30 | Compiler optimization and static analysis.<br/><em>Guest lecture: Shawn Meier</em>  |  |  |
+|15 | Tue | 12/5 | Final review.<br/>[meeting27-board] |  |  |
 | | Thu | 12/7 | Final exam: 7:00pm-9:30pm, ECCR 265 |  |  |
 |16 | Tue | 12/12 | Final project presentations |  |  |
 | | Thu | 12/14 | Final project presentations |  | |
