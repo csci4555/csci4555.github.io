@@ -158,4 +158,4 @@ Your project paper should be ~5 pages, as necessary, while being as concise and 
 
 ## Peer Review
 
-You will have the opportunity to write reviews of your peers' project papers _for extra credit_. Take a look at the [Paper Review Form](assignments/paper-review.txt) for further details.
+You will have the opportunity to write reviews of your peers' project papers _for extra credit_. Take a look at the Paper Review Form for further details.
